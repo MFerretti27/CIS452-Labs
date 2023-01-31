@@ -13,7 +13,7 @@ int main() {
   int forkResult; 
 
 //  Spawns off a child process 
-    forkResult = fork(); 
+  forkResult = fork(); 
     
   if(forkResult < 0) { // Fork Failed 
     perror("Fork failed"); 
@@ -45,10 +45,6 @@ else{
 
 //  note: it may be necessary to reinstall your signal handler after a signal is received 
 //  Terminates gracefully upon receiving a Control-C 
- 
-   
-  
- 
    
   return 0; 
 }

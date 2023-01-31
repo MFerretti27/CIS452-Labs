@@ -1,0 +1,23 @@
+This string will be printed in tmp.txt file
+This string will be printed in tmp.txt file
+This string will be printed in tmp.txt file
+
+Spawned child with PID [29797]
+
+.
+..
+.DS_Store
+problem1
+problem1.c
+problem1.dSYM
+sample
+sample.c
+sample.dSYM
+sampleOne
+sampleOne.c
+sampleOne.dSYM
+sampleTwo
+sampleTwo.c
+sampleTwo.dSYM
+tmp.txt
+untitled folder
